@@ -1,7 +1,6 @@
-section {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  padding: 10px;
+html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
 }
